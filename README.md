@@ -12,6 +12,8 @@ npm install package.json <br>
 cmd:<br>
 	node RPAStockMarket.js <br>
 
+![alt_text](https://raw.githubusercontent.com/digaumlv/RPA_challenge_JavaScript/main/RPAMarket.gif)
+
 ## RPA Challenge Input Forms ## 
 
 -require: <br>
