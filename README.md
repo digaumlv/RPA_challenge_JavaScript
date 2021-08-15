@@ -1,25 +1,25 @@
 # RPA_challenge_JavaScript
 
-Install
-npm install package.json
+Install <br>
+npm install package.json <br>
 
 ## RPA Stock Market ##
 
--require:
-	selenium-webdriver
-	fs
-	json-2-csv
-cmd:
-	node RPAStockMarket.js
+-require: <br>
+	selenium-webdriver <br>
+	fs <br>
+	json-2-csv <br>
+cmd:<br>
+	node RPAStockMarket.js <br>
 
-## RPA Challenge Input Forms ##
+## RPA Challenge Input Forms ## 
 
--require:
-	selenium-webdriver
-	xlsx
+-require: <br>
+	selenium-webdriver <br>
+	xlsx <br>
 
--base: challenge.xlsx
+-base: challenge.xlsx <br>
 
-cmd:
+cmd:<br>
 	node RPA_InputForms.js <br>
 ![alt text](https://raw.githubusercontent.com/digaumlv/RPA_challenge_JavaScript/main/ezgif.com-gif-maker%20(5).gif)
